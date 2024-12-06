@@ -1,0 +1,3 @@
+﻿  Main.cpp
+N:\C\Test_pattern_INC01LH\AI_NXXX_INC_01LH\AI_NXXX_INC_01LH\Main.cpp(51,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  AI_NXXX_INC_01LH.vcxproj -> N:\C\Test_pattern_INC01LH\AI_NXXX_INC_01LH\x64\Debug\AI_NXXX_INC_01LH.exe
